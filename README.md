@@ -2,7 +2,7 @@
 
 ###
 
-My name is Yugal and I graduated from the University of Illinois at Urbana-Champaign with a B.S. in Computer Engineering in December of 2024. I am currently pursing a Masters Degree there as well. Currently looking for internships in Software (Embedded, Systems, Computer Vision, Robotics and Autonomous Systems) and Hardware Engineering (CPU/GPU, Microarchitectures).
+I graduated from the University of Illinois at Urbana-Champaign with a B.S. in Computer Engineering in December of 2024. I am currently pursing a Masters Degree there as well. Currently looking for internships related to my interests in Software (Embedded, Systems, Computer Vision, Robotics and Autonomous Systems) and Hardware Engineering (CPU/GPU, Microarchitectures).
 
 
 ###
