@@ -1,20 +1,20 @@
-<h3 align="left">Hey there! What's up?</h3>
+#Hey there! What's up?
 
 ###
 
-<p align="left">My name is Yugal and I graduated from the University of Illinois at Urbana-Champaign with a B.S. in Computer Engineering in December of 2024. I am currently pursing a Masters Degree there as well. Currently looking for internships in Software (Embedded, Systems, Computer Vision, Robotics and Autonomous Systems) and Hardware Engineering (CPU/GPU, Microarchitectures). </p>
+My name is Yugal and I graduated from the University of Illinois at Urbana-Champaign with a B.S. in Computer Engineering in December of 2024. I am currently pursing a Masters Degree there as well. Currently looking for internships in Software (Embedded, Systems, Computer Vision, Robotics and Autonomous Systems) and Hardware Engineering (CPU/GPU, Microarchitectures).
 
 
 ###
 
-<p align="left">I completed my undergraduate thesis in "Control Algorithms for Vision-Based Navigation" under Professor Sayan Mitra. </p>
-  <p align="left"> More information can be found [here](https://github.com/YugalKithany/DroneRacing).  </p>
+I completed my undergraduate thesis in "Control Algorithms for Vision-Based Navigation" under Professor Sayan Mitra.
+More information can be found [here](https://github.com/YugalKithany/DroneRacing).
 
-<p align="left">I also researched Computer Architecture under Professor Dong Kai Wang, and this field will be my primary focus in my Masters. </p>
+I also researched Computer Architecture under Professor Dong Kai Wang, and this field will be my primary focus in my Masters
 
 ###
 
-<h3 align="left">I code with</h3>
+I code with
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Tools/Libraries I use</h3>
+Tools/Libraries I use
 
 ###
 
