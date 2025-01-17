@@ -7,8 +7,8 @@
 
 ###
 
-<p align="left">I completed my undergraduate thesis in "Control Algorithms for Vision-Based Navigation" under Professor Sayan Mitra. More information can be found 
-  [here](https://github.com/YugalKithany/DroneRacing/blob/main/README.md) </p>
+<p align="left">I completed my undergraduate thesis in "Control Algorithms for Vision-Based Navigation" under Professor Sayan Mitra. </p>
+  <p align="left"> More information can be found [here](https://github.com/YugalKithany/DroneRacing/blob/main/README.md) </p>
 
 <p align="left">I also researched Computer Architecture under Professor Dong Kai Wang, and this field will be my primary focus in my Masters. </p>
 
