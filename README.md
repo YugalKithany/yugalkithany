@@ -8,7 +8,7 @@ I graduated from the University of Illinois at Urbana-Champaign with a B.S. in C
 ###
 
 I completed my undergraduate thesis in "Control Algorithms for Vision-Based Navigation" under Professor Sayan Mitra.
-More information can be found [here](https://github.com/YugalKithany/DroneRacing).
+More information can be found [here](https://github.com/YugalKithany/Undergraduate-Thesis).
 
 I also researched Computer Architecture under Professor Dong Kai Wang, and this field will be my primary focus in my Masters
 
