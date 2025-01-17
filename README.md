@@ -11,7 +11,6 @@
   <p align="left"> More information can be found [here](https://github.com/YugalKithany/DroneRacing).  </p>
 
 <p align="left">I also researched Computer Architecture under Professor Dong Kai Wang, and this field will be my primary focus in my Masters. </p>
-[Vue](https://github.com/vuejs/vue)
 
 ###
 
